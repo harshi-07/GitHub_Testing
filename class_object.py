@@ -7,7 +7,7 @@ mc=myclass()
 mc.myfunc()
 mc.display("harshi")
 
-print("Too ja pooja")
+print("Too ja re pooja")
 #instance method
 
 class myclass:
